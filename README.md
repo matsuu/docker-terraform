@@ -16,5 +16,5 @@
 
 ## References
 
-- (Terraform official)[http://www.terraform.io/]
-- (hashicorp/terraform)[https://github.com/hashicorp/terraform]
+- [Terraform official](http://www.terraform.io/)
+- [hashicorp/terraform](https://github.com/hashicorp/terraform)
